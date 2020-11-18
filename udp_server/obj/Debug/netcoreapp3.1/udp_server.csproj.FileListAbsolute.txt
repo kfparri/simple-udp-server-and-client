@@ -1,0 +1,13 @@
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.csprojAssemblyReference.cache
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.AssemblyInfoInputs.cache
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.AssemblyInfo.cs
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.csproj.CoreCompileInputs.cache
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.exe
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.deps.json
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.runtimeconfig.json
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.runtimeconfig.dev.json
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.dll
+D:\source\test\udp\udp_server\bin\Debug\netcoreapp3.1\udp_server.pdb
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.dll
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.pdb
+D:\source\test\udp\udp_server\obj\Debug\netcoreapp3.1\udp_server.genruntimeconfig.cache
